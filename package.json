@@ -36,7 +36,7 @@
     "tslint": "^5.8.0",
     "typescript": "^2.5.3",
     "typings": "^2.1.1",
-    "vinyl-paths": "^2.1.0"
+    "vinyl-paths": "^3.0.1"
   },
   "jspm": {
     "registry": "npm",
